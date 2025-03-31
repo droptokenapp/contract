@@ -30,7 +30,7 @@ Installation & Usage ⚙️
 bash
 Copiar
 Editar
-git clone https://github.com/DropToken/DropToken-Contract.git
+git clone https://github.com/droptokenapp/contract.git
 cd DropToken-Contract
 2️⃣ Install dependencies
 
