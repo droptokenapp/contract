@@ -31,7 +31,7 @@ bash
 Copiar
 Editar
 git clone https://github.com/droptokenapp/contract.git
-cd DropToken-Contract
+cd Contract
 2️⃣ Install dependencies
 
 bash
